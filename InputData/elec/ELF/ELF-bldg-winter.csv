@@ -1,10 +1,10 @@
 load factor,urban residential,rural residential,commercial
-heating,3.21149,3.21149,5.98486
+heating,14.12631,14.12631,1.93056
 cooling & ventilation,0.0,0.0,0.0
 envelope,0.0,0.0,0.0
-lighting,1.29934,1.29934,0.94085
-appliances,2.44897,2.44897,1.05733
-other,0.61803,0.61803,0.94085
+lighting,2.26384,2.26384,1.59618
+appliances,1.98693,1.98693,1.14437
+other,0.38304,0.38304,1.59618
 ,,,
 ,,,
 ,,,
