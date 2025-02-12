@@ -6,10 +6,8 @@
 # Vensim sensitivity simulation parameters (Vensim Sensitivity Control)
 *.vsc
 
-# Vensim auto-generated model and graph backups
+# Vensim auto-generated model backups
 *.2mdl
-RECOVERED_*.mdl
-*.2vgd
 
 # Vensim temporary run cache files
 *.3vm
